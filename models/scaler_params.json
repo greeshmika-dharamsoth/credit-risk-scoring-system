@@ -1,0 +1,20 @@
+{
+  "scaler_type": "StandardScaler",
+  "features": ["Income", "LoanAmount", "CreditHistory", "WorkExperience", "HomeOwnership"],
+  "mean": {
+    "Income": 62263.938441,
+    "LoanAmount": 152748.615647,
+    "CreditHistory": 14.741371,
+    "WorkExperience": 1.041250,
+    "HomeOwnership": 1.007500
+  },
+  "std": {
+    "Income": 19827.051862,
+    "LoanAmount": 58259.021197,
+    "CreditHistory": 8.774844,
+    "WorkExperience": 0.819786,
+    "HomeOwnership": 0.815441
+  },
+  "created_date": "2026-02-01",
+  "sklearn_version": "1.0.0"
+}
